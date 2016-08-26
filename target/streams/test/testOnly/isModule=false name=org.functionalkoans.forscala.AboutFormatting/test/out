@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mAboutFormatting:[0m[0m
+[0m[[0minfo[0m] [0m[32m- String can be placed in format[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals can be an a single character[0m[0m
+[0m[[0minfo[0m] [0m[32m- Character Literals can be an escape sequence, including octal or hexidecimal[0m[0m
+[0m[[0minfo[0m] [0m[32m- Formatting can also include numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- Formatting can be used for any number of items, like a string and a number[0m[0m

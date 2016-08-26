@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mAboutLists:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Eq tests identity (same object)[0m[0m
+[0m[[0minfo[0m] [0m[32m- == tests equality (same content)[0m[0m
+[0m[[0minfo[0m] [0m[32m- Nil lists are identical, even of different types[0m[0m
+[0m[[0minfo[0m] [0m[32m- Lists are easily created[0m[0m
+[0m[[0minfo[0m] [0m[32m- Lists can be accessed via head and tail[0m[0m
+[0m[[0minfo[0m] [0m[32m- Lists can accessed by position[0m[0m
+[0m[[0minfo[0m] [0m[32m- Lists are immutable[0m[0m
+[0m[[0minfo[0m] [0m[32m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[32m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  + Please meditate on koan "Lists have many useful methods" of suite "AboutLists" [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  +  [0m[0m
+[0m[[0minfo[0m] [0m[32m  + ***************************************** [0m[0m
+[0m[[0minfo[0m] [0m[32m  + ***************************************** [0m[0m

@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(org.functionalkoans.forscala.AboutPatternMatching, sbt.SubclassFingerprintWrapper@2badc7ee, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaTest not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 9, Failed 0, Errors 0, Passed 9[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	org.functionalkoans.forscala.AboutPatternMatching[0m
